@@ -6,4 +6,3 @@ elif b<0:
 	print("%d/(%d)=%.2f" %(a,b,a/b))
 else:
 	print("%d/%d=%.2f" %(a,b,a/b))
-hello
